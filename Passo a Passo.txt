@@ -1,0 +1,8 @@
+1 - Criando Componente Card em src/components/card
+2 - Estilizando o componente em em src/components/card
+3 - Criando componete de Card em src/App.tsx
+4 - Criar objeto para retornar o back-end em src/interface/FoodData
+5 - Criando Hook para retornar os valores do banco em src/hooks/useFoodData
+6 - Declarando o QueryClientProvider em src/main
+7 - Criando Modal para inserir comidas em src/create-modal
+8 - Criando Hook para inserir Dados no Banco em src/useFoodDataMutate
