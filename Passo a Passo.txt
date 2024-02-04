@@ -1,8 +1,6 @@
-1 - Criando Componente Card em src/components/card
-2 - Estilizando o componente em em src/components/card
-3 - Criando componete de Card em src/App.tsx
-4 - Criar objeto para retornar o back-end em src/interface/FoodData
-5 - Criando Hook para retornar os valores do banco em src/hooks/useFoodData
-6 - Declarando o QueryClientProvider em src/main
-7 - Criando Modal para inserir comidas em src/create-modal
-8 - Criando Hook para inserir Dados no Banco em src/useFoodDataMutate
+1 - Criando Controller FoodController.java em src/main/java/com.example.cardapio/controller
+2 - Configurando Acesso do BD em src/main/resource/apliccation.properties
+3 - Criando Classe de objeto Food em com.example.cardapio.food
+4 - Criando Classe FoodRepository para o Banco em com.example.cardapio.food
+5 - Criando classe FoodResponseDTO para resposta GET em com.example.cardapio.food
+6 - Criando classe FoodRequestDTO para requisição GET em com.example.cardapio.food
